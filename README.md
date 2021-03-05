@@ -4,8 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Pille99_27)](https://twitter.com/Pille99_27)
 
-[![Instagram Badge](https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/p0land_99/)]
-(https://www.instagram.com/p0land_99/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/p0land_99/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PilotoEspacial&show_icons=true&hide_border=true">
 
