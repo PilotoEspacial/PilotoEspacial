@@ -24,7 +24,5 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
         <code><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
     </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilotoEspacial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/PilotoEspacial/github-readme-stats)
-
+    
 ⭐️ From [PilotoEspacial](https://github.com/PilotoEspacial)
