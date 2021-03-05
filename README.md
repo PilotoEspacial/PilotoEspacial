@@ -25,5 +25,6 @@
         <code><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
     </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilotoEspacial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/PilotoEspacial/github-readme-stats)
 
 ⭐️ From [PilotoEspacial](https://github.com/PilotoEspacial)
