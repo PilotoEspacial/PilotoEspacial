@@ -7,7 +7,7 @@
 
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/p0land_99/)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 ## 🧐 About
 
 - 👨‍💻 Play with me on LoL: Lombarda99 
