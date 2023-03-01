@@ -16,7 +16,6 @@
 
 ## 🧐 About
 
-- 👨‍💻 Play with me on LoL: Lombarda99 
 - 📫 How to reach me: paulinofuego@gmail.com
 - 🌱 Languages and Tools: 
 
