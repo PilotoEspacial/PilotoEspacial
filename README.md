@@ -7,7 +7,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Pille99_27)](https://twitter.com/Pille99_27)       
 
-   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/drunk_bunny99/)
 
 <p align="center"> 
   Visitor count<br>
