@@ -12,7 +12,6 @@
 
 ## 🧐 About
 
-- 📫 How to reach me: paulinofuego@gmail.com
 - 🌱 Languages and Tools: 
 
     <div>
